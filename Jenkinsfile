@@ -1,5 +1,5 @@
 #!/groovy
 
 node('master') {
-  echo "Hello world! I am node ${env.NODE_NAME}"
+  echo "Hello world!Webhook testing I am node ${env.NODE_NAME}"
 }
